@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "chai": "^4.0.1",
-    "chai-as-promised": "^7.0.0",
+    "chai-as-promised": "^7.1.1",
     "chalk": "^2.2.0",
     "commander": "^2.9.0",
     "fast-json-patch": "^2.0.2",
